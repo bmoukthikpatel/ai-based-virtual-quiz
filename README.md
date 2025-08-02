@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI-Based Virtual Quiz System
 
 A hand gesture-controlled quiz application using computer vision and MediaPipe. Users can answer multiple-choice questions and draw responses using hand gestures captured through their webcam.
