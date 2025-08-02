@@ -1,0 +1,50 @@
+draw
+write integer 4 in binary?
+
+mcq
+What is the capital of India?
+A) Mumbai
+B) Kolkata
+C) New Delhi
+D) Chennai
+C
+
+mcq
+Which river is considered the holiest in India?
+A) Ganges
+B) Yamuna
+C) Brahmaputra
+D) Godavari
+A
+
+mcq
+Who was the first Prime Minister of India?
+A) Mahatma Gandhi
+B) Jawaharlal Nehru
+C) Indira Gandhi
+D) Sardar Patel
+B
+
+mcq
+Which festival is known as the "Festival of Lights" in India?
+A) Diwali
+B) Holi
+C) Dussehra
+D) Eid
+A
+
+draw
+Draw a trinagle.
+
+
+mcq
+Which monument is located in Agra and is one of the Seven Wonders of the World?
+A) Qutub Minar
+B) Red Fort
+C) Taj Mahal
+D) India Gate
+C
+
+
+
+
