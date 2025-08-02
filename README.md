@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Based Virtual Quiz System
 
 A hand gesture-controlled quiz application using computer vision and MediaPipe. Users can answer multiple-choice questions and draw responses using hand gestures captured through their webcam.
@@ -213,3 +214,6 @@ This project is open source and available under the MIT License.
 - **MediaPipe**: Hand tracking and gesture recognition
 - **OpenCV**: Computer vision and image processing
 - **NumPy**: Numerical computations 
+=======
+# ai-based-virtual-quiz
+>>>>>>> d2ce0288b34da64c4177daed7e80a10223811fab
