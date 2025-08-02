@@ -1,4 +1,4 @@
-# Project Prompt: AI-Based Virtual Quiz System with Gesture Control
+# Project Description: AI-Based Virtual Quiz System with Gesture Control
 
 ## 1. High-Level Objective
 Build a desktop application in Python that allows a user to take an interactive quiz using hand gestures as the primary input method. The application will use the user's webcam to track their hand and interpret gestures for answering multiple-choice questions, drawing, and navigating the quiz.
