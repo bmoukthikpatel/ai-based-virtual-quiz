@@ -1,1 +1,1 @@
-# ai-based-vertual-quiz
+# ai-based-virtual-quiz
